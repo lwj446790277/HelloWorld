@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <!-- 需要安装的ipa包在服务器的路径 -->
+                        <string>https://xcx.rong51dai.com/jieba.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>jieba_ios.ipa</key>
+                     <string>com.three.axw</string><!--修改这里-->
+                     <key>bundle-version</key>
+                    <string>3.0.0</string><!--修改这里-->
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>借吧</string><!--修改这里-->
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
